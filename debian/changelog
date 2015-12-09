@@ -1,0 +1,6 @@
+arc-theme-3-18 (1446313524.8542d2c-wasta1) wily; urgency=medium
+
+  * Initial packaging of version from Arc-theme github site:
+    https://github.com/horst3180/Arc-theme
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 09 Dec 2015 15:02:48 +0300

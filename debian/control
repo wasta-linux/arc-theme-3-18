@@ -1,0 +1,15 @@
+Source: arc-theme-3-18
+Section: utils
+Priority: extra
+Maintainer: Rik Shaw <rikshaw76@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.5
+Homepage: https://github.com/wasta-linux/arc-theme-3-18
+
+Package: arc-theme-3-18
+Architecture: all
+Depends: gnome-themes-standard, gtk2-engines-murrine, ${shlibs:Depends}, ${misc:Depends}
+Description: Arc-Theme packaged for Gnome-Shell 3.18
+ Arc-Theme needs to be built against each specific version of Gnome-Shell
+ for compatibility reasons.  For example, using Arc-Theme built for Gnome 3.16
+ with Gnome-Shell 3.18 will result in Gnome-Shell crashing.
