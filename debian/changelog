@@ -1,3 +1,10 @@
+arc-theme-3-18 (1446313524.8542d2c-wasta2) wily; urgency=medium
+
+  * standardize names (previously had renamed to "Arc-3-18", but now reverting
+    to just "Arc", "Arc-Darker", "Arc-Dark" names)
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Sat, 26 Dec 2015 14:37:04 +0300
+
 arc-theme-3-18 (1446313524.8542d2c-wasta1) wily; urgency=medium
 
   * Initial packaging of version from Arc-theme github site:
