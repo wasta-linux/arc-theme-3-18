@@ -1,3 +1,9 @@
+arc-theme-3-18 (20160313-wasta1) xenial; urgency=medium
+
+  * re-based on current github master
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Sun, 13 Mar 2016 13:50:28 +0300
+
 arc-theme-3-18 (1446313524.8542d2c-wasta2) wily; urgency=medium
 
   * standardize names (previously had renamed to "Arc-3-18", but now reverting
