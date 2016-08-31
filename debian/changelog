@@ -1,3 +1,15 @@
+arc-theme-3-18 (20160831-wasta1) xenial; urgency=medium
+
+  * sync'd to 2016-08-31 from github master
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 31 Aug 2016 09:47:12 +0300
+
+arc-theme-3-18 (20160605-wasta1) xenial; urgency=medium
+
+  * syncd to 20160605 from github master
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Thu, 16 Jun 2016 17:46:44 -0500
+
 arc-theme-3-18 (20160313-wasta1) xenial; urgency=medium
 
   * re-based on current github master
