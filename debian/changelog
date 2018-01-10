@@ -1,3 +1,15 @@
+arc-theme-3-18 (20180110-wasta1) xenial; urgency=medium
+
+  * sync'd to 2018-01-19 from github master (cinnamon 3.6 updates)
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 10 Jan 2018 08:03:09 +0300
+
+arc-theme-3-18 (20161205-wasta1) xenial; urgency=medium
+
+  * sync'd to 2016-12-05 from github master (cinnamon 3.2 updates)
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Mon, 05 Dec 2016 08:41:09 +0300
+
 arc-theme-3-18 (20160831-wasta1) xenial; urgency=medium
 
   * sync'd to 2016-08-31 from github master

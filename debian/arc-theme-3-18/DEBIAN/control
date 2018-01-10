@@ -1,0 +1,15 @@
+Package: arc-theme-3-18
+Version: 20180110-wasta1
+Architecture: all
+Maintainer: Rik Shaw <rikshaw76@gmail.com>
+Installed-Size: 5261
+Depends: gnome-themes-standard, gtk2-engines-murrine
+Breaks: arc-theme-3-18
+Replaces: arc-theme-3-18
+Section: utils
+Priority: extra
+Homepage: https://github.com/wasta-linux/arc-theme-3-18
+Description: Arc-Theme packaged for Gnome 3.18
+ Arc-Theme needs to be built against each specific version of Gnome
+ for compatibility reasons.  For example, using Arc-Theme built for Gnome 3.16
+ with Gnome-Shell 3.18 will result in Gnome-Shell crashing.
