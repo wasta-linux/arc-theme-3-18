@@ -1,3 +1,9 @@
+arc-theme-3-18 (9999999999.20180110-wasta1) xenial; urgency=medium
+
+  * version bump to override git commit version number from 26-Dec-2015
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 10 Jan 2018 08:30:01 +0300
+
 arc-theme-3-18 (20180110-wasta1) xenial; urgency=medium
 
   * sync'd to 2018-01-19 from github master (cinnamon 3.6 updates)
